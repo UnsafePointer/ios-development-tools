@@ -12,7 +12,7 @@ iOS App Programming Guide: https://developer.apple.com/library/ios/documentation
 
 __Intermediate:__
 
-> Ray Wenderlich has a lot of tutorials on iOS on his blog, you should check those as you need them. If you haven't yet, you should start with concurrency topics on ObjC. Concurrency Programming Guide it's an excelent start. I think now it's the moment to start getting familiar with the most popular open source frameworks out there. AFNetworking it's an absolute brilliant implementation of async networking using the concurrency topics pointed before. Magical Record, AFIncrementalStore and fmdb are different wrapplers that solve the same issue: local storage, you should check out them and decide which one suits better your needs. There are also a lot of open source projects that resolve common user interface controls needs, you should ALWAYS check for those before starting to do your own. Lastly I would recommed to start reading about software desing patterns on cocoa, there are a lot of books out there, but If you are like me and you prefer short readings, I think you will love iOS Design Patters article from Ray Wenderlich blog. One of those design patters is used almost everywhere on iOS SDK: Key-Value Observing, you should read the Key-Value Observing Programming Guide from Apple.  
+> Ray Wenderlich has a lot of tutorials on iOS on his blog, you should check those as you need them. If you haven't yet, you should start with concurrency topics on ObjC. Concurrency Programming Guide it's an excelent start. I think now it's the moment to start getting familiar with the most popular open source frameworks out there. AFNetworking it's an absolute brilliant implementation of async networking using the concurrency topics pointed before. Magical Record, AFIncrementalStore and fmdb are different wrapplers that solve the same issue: local storage, you should check out them and decide which one suits better your needs. There are also a lot of open source projects that resolve common user interface controls needs, you should ALWAYS check for those before starting to do your own. Lastly I would recommed to start reading about software desing patterns on cocoa, there are a lot of books out there, but If you are like me and you prefer short readings, I think you will love iOS Design Patters article from Ray Wenderlich blog. One of those design patters is used almost everywhere on iOS SDK: Key-Value Observing, you should read the Key-Value Observing Programming Guide from Apple. I would recommend also checking into third party tools like Cocoapods for dependency management, Gradle Xcode Plugin for a build system, RevealApp for runtime inspection, Deploymate for static analysis, TestFlight for beta testing deployment and AppCode for a wonderful IDE.  
 
 Ray Wenderlich blog: http://www.raywenderlich.com/  
 Concurrency Programming Guide: https://developer.apple.com/library/ios/DOCUMENTATION/General/Conceptual/ConcurrencyProgrammingGuide/Introduction/Introduction.html  
@@ -22,6 +22,12 @@ AFIncrementalStore: https://github.com/AFNetworking/AFIncrementalStore
 fmdb: https://github.com/ccgus/fmdb  
 iOS Design Patterns: http://www.raywenderlich.com/46988/ios-design-patterns  
 Key-Value Observing Programming Guide: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html  
+CocoaPods: http://cocoapods.org/  
+Gradle Xcode Plugin: http://openbakery.org/gradle.php  
+RevealApp: http://revealapp.com/  
+Deploymate: http://www.deploymateapp.com/  
+TestFlight: https://testflightapp.com/  
+AppCode: http://www.jetbrains.com/objc/  
 
 __Advanced:__
 
